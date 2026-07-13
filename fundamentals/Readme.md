@@ -124,22 +124,22 @@ A virtual environment keeps this project's Python packages separate from the res
 ### Windows
 
 ```powershell
-python -m venv venv
-venv\Scripts\activate
+python -m venv .venv
+.venv\Scripts\activate
 ```
 
 If you use the Python launcher:
 
 ```powershell
-py -m venv venv
-venv\Scripts\activate
+py -m venv .venv
+.venv\Scripts\activate
 ```
 
 ### macOS and Linux
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 When the environment is active, your terminal prompt usually starts with `(venv)`.
