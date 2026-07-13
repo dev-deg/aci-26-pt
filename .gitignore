@@ -1,0 +1,5 @@
+.python-version
+
+fundamentals/__pycache__/
+fundamentals/*.pyc
+fundamentals/.venv/
