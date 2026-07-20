@@ -1,0 +1,61 @@
+student_id,study_mode,prior_programming_level,weekly_study_hours,attendance_percent,practice_attempts,lab_temperature_c,satisfaction,enrolment_date,passed,assessment_score
+CS1001,Hybrid,Intermediate,12.8,80.6,6,23.2,Dissatisfied,2026-01-26,True,85.0
+CS1002,On-campus,Intermediate,7.3,85.4,4,21.3,Very satisfied,2026-01-18,True,76.0
+CS1003,Hybrid,Intermediate,4.9,97.7,7,21.8,Dissatisfied,2026-01-16,True,87.0
+CS1004,Online,Intermediate,8.5,84.6,6,21.1,Very satisfied,2026-01-18,True,77.0
+CS1005,On-campus,Intermediate,8.7,77.1,6,21.0,Very satisfied,2026-01-12,True,84.0
+CS1006,Hybrid,Intermediate,,95.3,4,19.4,Satisfied,2026-01-16,True,83.0
+CS1007,Hybrid,Intermediate,10.5,87.1,2,21.7,Satisfied,2026-01-19,True,80.0
+CS1008,Hybrid,Beginner,9.1,100.0,3,20.8,Satisfied,2026-01-25,True,100.0
+CS1009,,Beginner,12.4,84.2,0,25.6,Very satisfied,2026-01-23,True,81.0
+CS1010,On-campus,Beginner,4.4,67.3,2,24.5,Neutral,2026-01-23,False,66.0
+CS1011,On-campus,Beginner,6.1,65.6,7,21.8,Satisfied,2026-01-20,False,65.0
+CS1012,Hybrid,Beginner,5.2,100.0,3,19.3,Dissatisfied,2026-01-13,False,83.0
+CS1012,Online,Advanced,6.8,100.0,0,18.6,Satisfied,2026-01-17,True,77.0
+CS1014,Hybrid,Beginner,3.9,79.8,5,23.6,Neutral,2026-01-26,False,64.0
+CS1015,On-campus,Beginner,9.9,77.4,7,21.6,Satisfied,2026-01-12,True,74.0
+CS1016,On-campus,Beginner,7.3,99.5,6,22.1,Satisfied,2026-01-25,True,90.0
+CS1017,Online,Beginner,3.6,68.7,2,17.2,Satisfied,2026-01-22,False,47.0
+CS1018,On-campus,Intermediate,,71.3,3,23.0,Satisfied,2026-01-16,False,65.0
+CS1019,Hybrid,Intermediate,8.9,89.7,4,22.0,Satisfied,2026-01-23,True,90.0
+CS1020,Online,Intermediate,10.5,77.3,1,18.6,Satisfied,2026-01-24,True,75.0
+CS1021,Hybrid,Intermediate,14.0,81.9,2,20.0,Satisfied,2026-01-12,True,82.0
+CS1022,On-campus,Beginner,16.7,80.0,1,21.6,Satisfied,2026-01-13,True,91.0
+CS1023,Hybrid,Intermediate,9.2,86.1,7,21.1,Very satisfied,2026-01-21,True,82.0
+CS1024,Hybrid,Beginner,5.0,98.9,5,20.4,Dissatisfied,2026-01-26,True,87.0
+CS1025,Hybrid,Beginner,1.6,83.1,6,20.8,Dissatisfied,2026-01-12,False,49.0
+CS1026,On-campus,Beginner,8.8,89.7,6,20.4,Dissatisfied,2026-01-21,True,81.0
+CS1027,On-campus,Intermediate,5.6,57.4,7,21.3,Satisfied,2026-01-14,False,42.0
+CS1028,On-campus,Intermediate,6.8,81.4,0,24.2,Satisfied,2026-01-21,True,53.0
+CS1029,On-campus,Beginner,6.2,71.9,7,16.0,Satisfied,2026-01-21,True,80.0
+CS1030,,Intermediate,7.6,67.4,0,20.5,Satisfied,2026-01-13,False,66.0
+CS1031,Online,Beginner,11.2,71.5,3,21.4,Neutral,2026-01-22,True,68.0
+CS1032,Hybrid,Intermediate,8.5,78.0,4,21.7,Very satisfied,2026-01-25,True,61.0
+CS1033,On-campus,Beginner,7.5,93.0,2,20.2,Satisfied,2026-01-24,True,53.0
+CS1034,On-campus,Beginner,4.9,115.0,1,17.1,Neutral,2026-01-12,False,49.0
+CS1035,On-campus,Beginner,3.0,82.4,1,21.7,Satisfied,2026-01-15,True,79.0
+CS1036,On-campus,Intermediate,6.5,76.2,6,24.8,Neutral,2026-01-15,True,74.0
+CS1037,On-campus,Beginner,7.8,78.1,2,17.6,Neutral,2026-01-18,True,64.0
+CS1038,On-campus,Beginner,13.3,94.0,2,22.9,Dissatisfied,2026-01-14,True,94.0
+CS1039,On-campus,Beginner,8.4,88.5,7,20.3,Very satisfied,2026-01-24,True,71.0
+CS1040,Online,Advanced,10.9,98.0,1,20.9,Satisfied,2026-01-23,True,84.0
+CS1041,On-campus,Advanced,6.5,80.1,7,18.7,Satisfied,2026-01-24,True,75.0
+CS1042,Hybrid,Intermediate,4.4,73.6,7,20.3,Satisfied,2026-01-14,True,65.0
+CS1043,Online,Beginner,5.1,79.3,4,23.9,Satisfied,2026-01-12,True,73.0
+CS1044,On-campus,Advanced,5.8,84.9,1,22.3,Very satisfied,2026-01-25,True,70.0
+CS1045,Hybrid,Intermediate,,84.1,1,24.8,Satisfied,2026-01-16,True,91.0
+CS1046,Hybrid,Intermediate,5.5,69.0,2,23.6,Satisfied,2026-01-21,False,52.0
+CS1047,On-campus,Beginner,10.5,83.1,4,22.0,Satisfied,2026-01-25,True,88.0
+CS1048,On-campus,Beginner,5.3,84.7,1,24.8,Very satisfied,2026-01-12,False,79.0
+CS1049,Online,Beginner,10.8,100.0,3,22.0,Satisfied,2026-01-12,True,82.0
+CS1050,On-campus,Advanced,9.2,100.0,0,22.8,Very satisfied,2026-01-12,True,75.0
+CS1051,On-campus,Intermediate,7.5,71.8,4,20.3,Dissatisfied,2026-01-14,False,78.0
+CS1052,On-campus,Beginner,7.9,78.6,0,21.1,Very satisfied,2026-01-12,False,65.0
+CS1053,Hybrid,Beginner,6.0,64.4,5,19.5,Satisfied,2026-01-24,False,72.0
+CS1054,Online,Intermediate,9.3,74.9,0,23.2,Dissatisfied,2026-01-21,False,63.0
+CS1055,Online,Beginner,6.6,85.8,1,18.4,Satisfied,2026-01-26,False,81.0
+CS1056,Hybrid,Advanced,4.3,96.5,1,22.7,Satisfied,2026-01-24,True,72.0
+CS1057,On-campus,Intermediate,4.2,73.3,6,20.6,Very dissatisfied,2026-01-26,True,66.0
+CS1058,Online,Intermediate,8.5,74.2,0,23.6,Satisfied,2026-01-15,False,77.0
+CS1059,On-campus,Beginner,12.7,56.2,3,22.7,Very satisfied,2026-01-16,True,64.0
+CS1060,On-campus,Intermediate,8.5,80.0,4,25.0,Neutral,2026-01-24,True,67.0

@@ -1,0 +1,17 @@
+dataset,column,storage_type,semantic_type,note
+student_learning.csv,student_id,string,Nominal identifier,No arithmetic meaning
+student_learning.csv,study_mode,category,Nominal,Unordered labels
+student_learning.csv,prior_programming_level,ordered category,Ordinal,Beginner < Intermediate < Advanced
+student_learning.csv,weekly_study_hours,float,"Ratio, continuous",True zero; ratios meaningful
+student_learning.csv,attendance_percent,float,"Ratio, continuous",0 means no attendance
+student_learning.csv,practice_attempts,integer,"Ratio, discrete",Count data
+student_learning.csv,lab_temperature_c,float,"Interval, continuous",Zero is arbitrary
+student_learning.csv,satisfaction,ordered category,Ordinal,Ranked response scale
+student_learning.csv,enrolment_date,datetime,Temporal,Calendar date
+student_learning.csv,passed,boolean,Binary categorical,Two states
+student_learning.csv,assessment_score,float,"Numeric, bounded",0–100 outcome
+lab_sensor_readings.csv,timestamp,datetime,Temporal index,15-minute sequence
+lab_sensor_readings.csv,room,category,Nominal,Unordered room label
+lab_sensor_readings.csv,co2_ppm,float,Ratio measurement,Missing values included
+support_tickets.json,tags,list of strings,Multi-label categorical,Several tags per record
+support_tickets.json,message,string,Unstructured text,Natural language

@@ -1,0 +1,224 @@
+[
+  {
+    "ticket_id": "TKT-300",
+    "created_at": "2026-02-03 08:00:00",
+    "priority": "low",
+    "tags": [
+      "login",
+      "student",
+      "repeat-contact"
+    ],
+    "message": "Student reports a login problem. The issue affects practical class work and needs low attention.",
+    "resolved": false,
+    "response_minutes": 54
+  },
+  {
+    "ticket_id": "TKT-301",
+    "created_at": "2026-02-03 11:00:00",
+    "priority": "medium",
+    "tags": [
+      "database",
+      "student"
+    ],
+    "message": "Student reports a database problem. The issue affects practical class work and needs medium attention.",
+    "resolved": true,
+    "response_minutes": 222
+  },
+  {
+    "ticket_id": "TKT-302",
+    "created_at": "2026-02-03 14:00:00",
+    "priority": "high",
+    "tags": [
+      "network",
+      "student"
+    ],
+    "message": "Student reports a network problem. The issue affects practical class work and needs high attention.",
+    "resolved": true,
+    "response_minutes": null
+  },
+  {
+    "ticket_id": "TKT-303",
+    "created_at": "2026-02-03 17:00:00",
+    "priority": "urgent",
+    "tags": [
+      "assessment",
+      "student",
+      "repeat-contact"
+    ],
+    "message": "Student reports a assessment problem. The issue affects practical class work and needs urgent attention.",
+    "resolved": true,
+    "response_minutes": 129
+  },
+  {
+    "ticket_id": "TKT-304",
+    "created_at": "2026-02-03 20:00:00",
+    "priority": "low",
+    "tags": [
+      "software installation",
+      "student"
+    ],
+    "message": "Student reports a software installation problem. The issue affects practical class work and needs low attention.",
+    "resolved": false,
+    "response_minutes": 107
+  },
+  {
+    "ticket_id": "TKT-305",
+    "created_at": "2026-02-03 23:00:00",
+    "priority": "medium",
+    "tags": [
+      "login",
+      "student"
+    ],
+    "message": "Student reports a login problem. The issue affects practical class work and needs medium attention.",
+    "resolved": true,
+    "response_minutes": 72
+  },
+  {
+    "ticket_id": "TKT-306",
+    "created_at": "2026-02-04 02:00:00",
+    "priority": "high",
+    "tags": [
+      "database",
+      "student",
+      "repeat-contact"
+    ],
+    "message": "Student reports a database problem. The issue affects practical class work and needs high attention.",
+    "resolved": true,
+    "response_minutes": 155
+  },
+  {
+    "ticket_id": "TKT-307",
+    "created_at": "2026-02-04 05:00:00",
+    "priority": "urgent",
+    "tags": [
+      "network",
+      "student"
+    ],
+    "message": "Student reports a network problem. The issue affects practical class work and needs urgent attention.",
+    "resolved": true,
+    "response_minutes": 182
+  },
+  {
+    "ticket_id": "TKT-308",
+    "created_at": "2026-02-04 08:00:00",
+    "priority": "low",
+    "tags": [
+      "assessment",
+      "student"
+    ],
+    "message": "Student reports a assessment problem. The issue affects practical class work and needs low attention.",
+    "resolved": false,
+    "response_minutes": 5
+  },
+  {
+    "ticket_id": "TKT-309",
+    "created_at": "2026-02-04 11:00:00",
+    "priority": "medium",
+    "tags": [
+      "software installation",
+      "student",
+      "repeat-contact"
+    ],
+    "message": "Student reports a software installation problem. The issue affects practical class work and needs medium attention.",
+    "resolved": true,
+    "response_minutes": 134
+  },
+  {
+    "ticket_id": "TKT-310",
+    "created_at": "2026-02-04 14:00:00",
+    "priority": "high",
+    "tags": [
+      "login",
+      "student"
+    ],
+    "message": "Student reports a login problem. The issue affects practical class work and needs high attention.",
+    "resolved": true,
+    "response_minutes": 238
+  },
+  {
+    "ticket_id": "TKT-311",
+    "created_at": "2026-02-04 17:00:00",
+    "priority": "urgent",
+    "tags": [
+      "database",
+      "student"
+    ],
+    "message": "Student reports a database problem. The issue affects practical class work and needs urgent attention.",
+    "resolved": true,
+    "response_minutes": null
+  },
+  {
+    "ticket_id": "TKT-312",
+    "created_at": "2026-02-04 20:00:00",
+    "priority": "low",
+    "tags": [
+      "network",
+      "student",
+      "repeat-contact"
+    ],
+    "message": "Student reports a network problem. The issue affects practical class work and needs low attention.",
+    "resolved": false,
+    "response_minutes": 70
+  },
+  {
+    "ticket_id": "TKT-313",
+    "created_at": "2026-02-04 23:00:00",
+    "priority": "medium",
+    "tags": [
+      "assessment",
+      "student"
+    ],
+    "message": "Student reports a assessment problem. The issue affects practical class work and needs medium attention.",
+    "resolved": true,
+    "response_minutes": 71
+  },
+  {
+    "ticket_id": "TKT-314",
+    "created_at": "2026-02-05 02:00:00",
+    "priority": "high",
+    "tags": [
+      "software installation",
+      "student"
+    ],
+    "message": "Student reports a software installation problem. The issue affects practical class work and needs high attention.",
+    "resolved": true,
+    "response_minutes": 211
+  },
+  {
+    "ticket_id": "TKT-315",
+    "created_at": "2026-02-05 05:00:00",
+    "priority": "urgent",
+    "tags": [
+      "login",
+      "student",
+      "repeat-contact"
+    ],
+    "message": "Student reports a login problem. The issue affects practical class work and needs urgent attention.",
+    "resolved": true,
+    "response_minutes": 19
+  },
+  {
+    "ticket_id": "TKT-316",
+    "created_at": "2026-02-05 08:00:00",
+    "priority": "low",
+    "tags": [
+      "database",
+      "student"
+    ],
+    "message": "Student reports a database problem. The issue affects practical class work and needs low attention.",
+    "resolved": false,
+    "response_minutes": 98
+  },
+  {
+    "ticket_id": "TKT-317",
+    "created_at": "2026-02-05 11:00:00",
+    "priority": "medium",
+    "tags": [
+      "network",
+      "student"
+    ],
+    "message": "Student reports a network problem. The issue affects practical class work and needs medium attention.",
+    "resolved": true,
+    "response_minutes": 112
+  }
+]
