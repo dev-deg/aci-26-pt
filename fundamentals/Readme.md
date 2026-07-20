@@ -138,7 +138,7 @@ py -m venv .venv
 ### macOS and Linux
 
 ```bash
-python3 -m venv venv
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
@@ -166,6 +166,12 @@ If this project has a `requirements.txt` file, install it too:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Alternatively you may install the following packages for the fundamentals project:
+
+```bash
+pip install pandas scikit-learn matplotlib
 ```
 
 ## 6. Run Jupyter Notebooks in VS Code
