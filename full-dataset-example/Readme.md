@@ -1,0 +1,1 @@
+Adapted from: https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data
